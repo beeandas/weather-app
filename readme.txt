@@ -1,0 +1,1 @@
+This is Weather data app that will show weather data of any country.
